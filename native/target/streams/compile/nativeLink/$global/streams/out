@@ -1,0 +1,607 @@
+[0m[[0m[0minfo[0m] [0m[0mLinking (24062 ms)[0m
+[0m[[0m[0minfo[0m] [0m[0mDiscovered 1288 classes and 9500 methods[0m
+[0m[[0m[0minfo[0m] [0m[0mOptimizing (debug mode) (9651 ms)[0m
+[0m[[0m[0minfo[0m] [0m[0mGenerating intermediate code (3805 ms)[0m
+[0m[[0m[0minfo[0m] [0m[0mProduced 40 files[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/mynative.ll[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/mynative.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.collection.mutable.ll[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.collection.mutable.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/java.math.ll[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/java.math.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.collection.generic.ll[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.collection.generic.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.util.hashing.ll[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.util.hashing.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/__extern.ll[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/__extern.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/java.nio.ll[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/java.nio.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.math.ll[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.math.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/java.text.ll[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/java.text.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.reflect.ll[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.reflect.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.concurrent.ll[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.concurrent.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.compat.ll[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.compat.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/__dispatch.ll[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/__dispatch.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/__empty.ll[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/__empty.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/__object_array_id.ll[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/__object_array_id.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/__main.ll[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/__main.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/java.util.ll[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/java.util.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/java.lang.reflect.ll[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/java.lang.reflect.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/java.nio.charset.ll[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/java.nio.charset.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/java.util.concurrent.ll[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/java.util.concurrent.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.util.control.ll[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.util.control.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.runtime.ll[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.runtime.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.collection.immutable.ll[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.collection.immutable.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.scalanative.native.ll[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.scalanative.native.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/__stack_bottom.ll[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/__stack_bottom.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.ll[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/java.io.ll[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/java.io.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/__class_has_trait.ll[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/__class_has_trait.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/niocharset.ll[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/niocharset.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.io.ll[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.io.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/__modules.ll[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/__modules.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.collection.convert.ll[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.collection.convert.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/__modules_size.ll[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/__modules_size.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/__trait_has_trait.ll[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/__trait_has_trait.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.collection.script.ll[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.collection.script.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/java.lang.ll[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/java.lang.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.scalanative.runtime.ll[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.scalanative.runtime.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.collection.ll[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.collection.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.util.ll[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.util.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.scalanative.posix.ll[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.scalanative.posix.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling to native code (33404 ms)[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/stat.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/stat.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/gc/boehm/gc.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/gc/boehm/gc.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/posix/sys/socket.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/posix/sys/socket.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/pthread.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/pthread.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/dyndispatch.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/dyndispatch.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/statvfs.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/statvfs.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/posix/sys/socket_conversions.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/posix/sys/socket_conversions.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/posix/arpa/inet.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/posix/arpa/inet.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/posix/sys/uio.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/posix/sys/uio.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/posix/syslog.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/posix/syslog.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/posix/netinet/in.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/posix/netinet/in.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/wrap.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/wrap.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/posix/netinet/tcp.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/posix/netinet/tcp.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/posix/termios.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/posix/termios.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/posix/netdb.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/posix/netdb.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/posix/sys/ioctl.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/posix/sys/ioctl.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/posix/cpio.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/posix/cpio.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/posix.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/posix.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/posix/sys/select.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/posix/sys/select.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/unistd.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/unistd.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/grp.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/grp.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/unwind.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/unwind.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/pwd.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/pwd.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/fcntl.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/fcntl.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang++-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=c++11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/eh.cpp[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/eh.cpp.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/dirent.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/dirent.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/complex.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/complex.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/time.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/time.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/utime.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/utime.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/limits.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/limits.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/platform.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/platform.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang++-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=c++11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/time.cpp[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/time.cpp.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang++-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=c++11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/process_monitor.cpp[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/process_monitor.cpp.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mrunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang++-3.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native-out[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-lrt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-lunwind[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-lunwind-x86_64[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-lgc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-L/usr/local/lib[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-L/usr/lib/llvm-3.8/lib[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-lpthread[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-target[0m
+[0m[[0m[0mdebug[0m] [0m[0m	x86_64-pc-linux-gnu[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/mynative.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/__extern.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/java.text.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/__main.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/java.util.concurrent.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.runtime.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/__modules.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/__modules_size.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.collection.script.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/java.math.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/java.nio.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.compat.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/__empty.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/java.lang.reflect.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.collection.generic.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.util.hashing.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.reflect.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/__object_array_id.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/java.util.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.collection.mutable.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.math.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.concurrent.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/__dispatch.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/java.nio.charset.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.util.control.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.collection.immutable.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/__trait_has_trait.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.collection.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.scalanative.posix.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.scalanative.native.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/__class_has_trait.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/niocharset.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.scalanative.runtime.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.util.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/__stack_bottom.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/java.io.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.io.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/scala.collection.convert.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/java.lang.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/wrap.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/grp.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/eh.cpp.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/gc/boehm/gc.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/platform.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/pthread.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/complex.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/fcntl.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/posix/arpa/inet.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/posix/netdb.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/posix/sys/select.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/posix/sys/socket.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/posix/sys/ioctl.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/posix/sys/socket_conversions.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/posix/sys/uio.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/posix/cpio.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/posix/netinet/in.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/posix/netinet/tcp.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/posix/syslog.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/posix/termios.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/posix.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/time.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/dirent.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/statvfs.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/dyndispatch.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/utime.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/stat.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/limits.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/time.cpp.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/unistd.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/unwind.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/process_monitor.cpp.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native/lib/pwd.c.o[0m
+[0m[[0m[0minfo[0m] [0m[0mLinking native code (boehm gc) (11963 ms)[0m

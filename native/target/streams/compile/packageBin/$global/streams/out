@@ -1,0 +1,11 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/native_native0.3_2.11-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mynative[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/classes/mynative[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mynative/NativeMain$.nir[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/classes/mynative/NativeMain$.nir[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mynative/NativeMain.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/classes/mynative/NativeMain.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mynative/NativeMain$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/classes/mynative/NativeMain$.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
