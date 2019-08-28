@@ -1,5 +1,6 @@
 package mynative
 
+//Run main class :native/runMain mynative.NativeMain
 object NativeMain {
 
   var n = 6

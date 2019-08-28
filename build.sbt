@@ -60,7 +60,7 @@ lazy val native = project
    you can run it by this command :
    native/nativeTask
    */
-    TaskKey[Unit]("nativeTask") := (testOnly in Test).toTask(" mytests.TestNative").value
+    TaskKey[Unit]("nativeTask") := (testOnly in Test).toTask(" nativetests.NativeTest").value
   )
   .enablePlugins(ScalaNativePlugin)
 

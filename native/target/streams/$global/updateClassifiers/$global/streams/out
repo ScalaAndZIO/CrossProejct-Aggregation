@@ -67,6 +67,8 @@
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-reflect;2.11.12 [compile->master]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.12 [compile->default]
 [debug] sbt-chain: Checking cache for: dependency: org.scala-lang#scala-library;2.11.12 {compile=[default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master], runtime=[default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master], test=[default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master], compile-internal=[default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master], runtime-internal=[default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master], test-internal=[default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master], plugin=[compile, runtime(*), master(compile), runtime, compile(*), master], scala-tool=[default, compile, runtime(*), master(compile), runtime, optional, optional(default), compile(*), master]}
+[debug] no default cache defined: set to /root/.ivy2/cache
+[debug] no default cache defined: set to /root/.ivy2/cache
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.11.12
 [debug] 	found org.scala-lang#scala-library;2.11.12 in sbt-chain
 [debug] 	[2.11.12] org.scala-lang#scala-library;2.11.12
@@ -2354,123 +2356,27 @@
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->jline#jline;2.14.3 [scala-tool->master]
 [debug] 	resolved ivy file produced in cache
 [debug] :: downloading artifacts ::
-[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.12!scala-reflect.jar(src)
-[debug] no default ivy user dir defined: set to /root/.ivy2
+[debug] 	[NOT REQUIRED] org.scala-native#nativelib_native0.3_2.11;0.3.7!nativelib_native0.3_2.11.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-native#javalib_native0.3_2.11;0.3.7!javalib_native0.3_2.11.jar(src)
 [debug] 	[NOT REQUIRED] org.scalactic#scalactic_native0.3_2.11;3.2.0-SNAP10!scalactic_native0.3_2.11.jar(src)
-[debug] no default ivy user dir defined: set to /root/.ivy2
-[debug] no default ivy user dir defined: set to /root/.ivy2
-[debug] including url: jar:file:/root/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
-[debug] including url: jar:file:/root/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
-[debug] 	[NOT REQUIRED] org.scala-native#test-interface-serialization_native0.3_2.11;0.3.6!test-interface-serialization_native0.3_2.11.jar(src)
-[debug] no default ivy user dir defined: set to /root/.ivy2
-[debug] including url: jar:file:/root/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
-[debug] including url: jar:file:/root/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
-[debug] no default cache defined: set to /root/.ivy2/cache
-[debug] including url: jar:file:/root/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
-[debug] no default cache defined: set to /root/.ivy2/cache
-[debug] no default cache defined: set to /root/.ivy2/cache
-[debug] including url: jar:file:/root/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
-[debug] including url: jar:file:/root/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
-[debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.11.12!scala-library.jar(src)
-[debug] no default cache defined: set to /root/.ivy2/cache
-[debug] including url: jar:file:/root/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
-[debug] no default ivy user dir defined: set to /root/.ivy2
-[debug] including url: jar:file:/root/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
-[debug] including url: jar:file:/root/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
-[debug] 	[NOT REQUIRED] org.scala-native#nativelib_native0.3_2.11;0.3.7!nativelib_native0.3_2.11.jar(src)
-[debug] no default ivy user dir defined: set to /root/.ivy2
-[debug] including url: jar:file:/root/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
-[debug] no default cache defined: set to /root/.ivy2/cache
-[debug] including url: jar:file:/root/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
-[debug] including url: jar:file:/root/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
-[debug] including url: jar:file:/root/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
-[debug] including url: jar:file:/root/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
-[debug] including url: jar:file:/root/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
-[debug] including url: jar:file:/root/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
-[debug] including url: jar:file:/root/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
-[debug] including url: jar:file:/root/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
-[debug] no default cache defined: set to /root/.ivy2/cache
-[debug] including url: jar:file:/root/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
-[debug] including url: jar:file:/root/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
-[debug] including url: jar:file:/root/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
-[debug] settings loaded (103ms)
-[debug] 	default cache: /root/.ivy2/cache
-[debug] 	default resolver: default
-[debug] 	-- 5 resolvers:
-[debug] 	shared [file]
-[debug] 	default [chain] [local, main]
-[debug] 	public [ibiblio]
-[debug] 	main [chain] [shared, public]
-[debug] 	local [file]
-[debug] settings loaded (71ms)
-[debug] 	default cache: /root/.ivy2/cache
-[debug] 	default resolver: default
-[debug] 	-- 5 resolvers:
-[debug] 	shared [file]
-[debug] 	default [chain] [local, main]
-[debug] 	public [ibiblio]
-[debug] 	main [chain] [shared, public]
-[debug] 	local [file]
-[debug] including url: jar:file:/root/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
-[debug] including url: jar:file:/root/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
-[debug] settings loaded (92ms)
-[debug] 	default cache: /root/.ivy2/cache
-[debug] 	default resolver: default
-[debug] including url: jar:file:/root/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
-[debug] 	-- 5 resolvers:
-[debug] 	shared [file]
-[debug] 	default [chain] [local, main]
-[debug] 	public [ibiblio]
-[debug] 	main [chain] [shared, public]
-[debug] 	local [file]
-[debug] including url: jar:file:/root/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
-[debug] 	[NOT REQUIRED] org.scala-native#scalalib_native0.3_2.11;0.3.7!scalalib_native0.3_2.11.jar(src)
-[debug] including url: jar:file:/root/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
-[debug] settings loaded (110ms)
-[debug] 	default cache: /root/.ivy2/cache
-[debug] 	default resolver: default
-[debug] 	-- 5 resolvers:
-[debug] 	shared [file]
-[debug] 	default [chain] [local, main]
-[debug] 	public [ibiblio]
-[debug] 	main [chain] [shared, public]
 [debug] 	[NOT REQUIRED] org.scala-native#test-interface_native0.3_2.11;0.3.6!test-interface_native0.3_2.11.jar(src)
-[debug] 	local [file]
+[debug] 	[NOT REQUIRED] org.scala-native#scalalib_native0.3_2.11;0.3.7!scalalib_native0.3_2.11.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-native#test-interface-sbt-defs_native0.3_2.11;0.3.6!test-interface-sbt-defs_native0.3_2.11.jar(src)
-[debug] including url: jar:file:/root/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
 [debug] 	[NOT REQUIRED] org.scala-native#auxlib_native0.3_2.11;0.3.7!auxlib_native0.3_2.11.jar(src)
+[debug] 	[NOT REQUIRED] org.scalatest#scalatest_native0.3_2.11;3.2.0-SNAP10!scalatest_native0.3_2.11.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-native#test-interface_native0.3_2.11;0.3.7!test-interface_native0.3_2.11.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-native#test-interface-sbt-defs_native0.3_2.11;0.3.7!test-interface-sbt-defs_native0.3_2.11.jar(src)
-[debug] 	[NOT REQUIRED] org.scalatest#scalatest_native0.3_2.11;3.2.0-SNAP10!scalatest_native0.3_2.11.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.11.12!scala-library.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-native#test-interface-serialization_native0.3_2.11;0.3.6!test-interface-serialization_native0.3_2.11.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-native#test-interface-serialization_native0.3_2.11;0.3.7!test-interface-serialization_native0.3_2.11.jar(src)
-[debug] including url: jar:file:/root/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
-[debug] including url: jar:file:/root/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
-[debug] settings loaded (93ms)
-[debug] settings loaded (87ms)
-[debug] 	default cache: /root/.ivy2/cache
-[debug] 	default cache: /root/.ivy2/cache
-[debug] 	default resolver: default
-[debug] 	-- 5 resolvers:
-[debug] 	shared [file]
-[debug] 	default [chain] [local, main]
-[debug] 	public [ibiblio]
-[debug] 	main [chain] [shared, public]
-[debug] 	local [file]
 [debug] 	[NOT REQUIRED] org.scala-native#nscplugin_2.11.12;0.3.7!nscplugin_2.11.12.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar(src)
-[debug] 	default resolver: default
-[debug] 	-- 5 resolvers:
-[debug] 	shared [file]
-[debug] 	default [chain] [local, main]
-[debug] 	public [ibiblio]
-[debug] 	main [chain] [shared, public]
-[debug] 	local [file]
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.5!scala-xml_2.11.jar(src)
 [debug] 	[NOT REQUIRED] jline#jline;2.14.3!jline.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4!scala-parser-combinators_2.11.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.12!scala-compiler.jar(src)
-[debug] :: resolution report :: resolve 6497ms :: artifacts dl 310ms
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.12!scala-reflect.jar(src)
+[debug] :: resolution report :: resolve 1654ms :: artifacts dl 138ms
 [debug] 	report for native#native$sources;0.1.0-SNAPSHOT compile produced in /home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/resolution-cache/reports/native-native$sources-compile.xml
 [debug] 	report for native#native$sources;0.1.0-SNAPSHOT runtime produced in /home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/resolution-cache/reports/native-native$sources-runtime.xml
 [debug] 	report for native#native$sources;0.1.0-SNAPSHOT test produced in /home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/resolution-cache/reports/native-native$sources-test.xml
@@ -2482,4 +2388,4 @@
 [debug] 	report for native#native$sources;0.1.0-SNAPSHOT plugin produced in /home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/resolution-cache/reports/native-native$sources-plugin.xml
 [debug] 	report for native#native$sources;0.1.0-SNAPSHOT pom produced in /home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/resolution-cache/reports/native-native$sources-pom.xml
 [debug] 	report for native#native$sources;0.1.0-SNAPSHOT scala-tool produced in /home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/resolution-cache/reports/native-native$sources-scala-tool.xml
-[debug] 	resolve done (6497ms resolve - 310ms download)
+[debug] 	resolve done (1654ms resolve - 138ms download)

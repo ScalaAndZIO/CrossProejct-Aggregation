@@ -4,7 +4,7 @@
 		module="cross_aggregation$sources"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20190827134814"
+		publication="20190828101402"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
