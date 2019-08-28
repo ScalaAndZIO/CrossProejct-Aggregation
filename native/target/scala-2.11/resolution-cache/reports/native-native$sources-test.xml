@@ -7,7 +7,7 @@
 		revision="0.1.0-SNAPSHOT"
 		conf="test"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool"
-		date="20190828101359"/>
+		date="20190828133957"/>
 	<dependencies>
 		<module organisation="org.scala-native" name="test-interface_native0.3_2.11">
 			<revision name="0.3.7" status="release" pubdate="20180329144434" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-native.org" downloaded="false" searched="false" default="false" conf="default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master" position="10">

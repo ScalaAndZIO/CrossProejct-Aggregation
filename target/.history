@@ -25,3 +25,21 @@ native/runMain nativetests.NativeTest
 native/testOnly *NativeTest
 native/runMain mynative.NativeMain
 native/nativeTask
+fastOptJS
+reload
+fastOptJS
+js/fastOptJS
+fastOptJS
+js/fastOptJS
+js/testOnly *JsTest
+js/testOnly *jstests.JsTest
+js/test
+js/jsTask
+jsTask
+js/testOnly *JsTest
+js/test
+js/jsTask
+js/testOnly *JsTest
+js/jsTask
+js/test
+test

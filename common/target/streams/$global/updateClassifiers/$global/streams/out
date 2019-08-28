@@ -1,3 +1,4 @@
+[debug] no default cache defined: set to /root/.ivy2/cache
 [debug] :: resolving dependencies :: common#common$sources;0.1.0-SNAPSHOT
 [debug] 	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool]
 [debug] 	validate = true
@@ -286,7 +287,7 @@
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.12;1.0.6!scala-xml_2.12.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.12.7!scala-reflect.jar(src)
 [debug] 	[NOT REQUIRED] jline#jline;2.14.6!jline.jar(src)
-[debug] :: resolution report :: resolve 44ms :: artifacts dl 3ms
+[debug] :: resolution report :: resolve 106ms :: artifacts dl 5ms
 [debug] 	report for common#common$sources;0.1.0-SNAPSHOT compile produced in /home/naseem/Documents/SFreely NEW/Cross_Aggregation/common/target/scala-2.12/resolution-cache/reports/common-common$sources-compile.xml
 [debug] 	report for common#common$sources;0.1.0-SNAPSHOT runtime produced in /home/naseem/Documents/SFreely NEW/Cross_Aggregation/common/target/scala-2.12/resolution-cache/reports/common-common$sources-runtime.xml
 [debug] 	report for common#common$sources;0.1.0-SNAPSHOT test produced in /home/naseem/Documents/SFreely NEW/Cross_Aggregation/common/target/scala-2.12/resolution-cache/reports/common-common$sources-test.xml
@@ -298,4 +299,4 @@
 [debug] 	report for common#common$sources;0.1.0-SNAPSHOT plugin produced in /home/naseem/Documents/SFreely NEW/Cross_Aggregation/common/target/scala-2.12/resolution-cache/reports/common-common$sources-plugin.xml
 [debug] 	report for common#common$sources;0.1.0-SNAPSHOT pom produced in /home/naseem/Documents/SFreely NEW/Cross_Aggregation/common/target/scala-2.12/resolution-cache/reports/common-common$sources-pom.xml
 [debug] 	report for common#common$sources;0.1.0-SNAPSHOT scala-tool produced in /home/naseem/Documents/SFreely NEW/Cross_Aggregation/common/target/scala-2.12/resolution-cache/reports/common-common$sources-scala-tool.xml
-[debug] 	resolve done (44ms resolve - 3ms download)
+[debug] 	resolve done (106ms resolve - 5ms download)

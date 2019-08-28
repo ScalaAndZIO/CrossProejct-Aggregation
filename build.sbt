@@ -68,17 +68,18 @@ lazy val native = project
 lazy val js = project
   .enablePlugins(ScalaJSPlugin)
   .settings(
-    scalaVersion := "2.11.12",
+    scalaVersion := "2.12.8",
     scalaJSUseMainModuleInitializer := true,
+    libraryDependencies += "org.scala-js" %%% "scalajs-dom" % "0.9.7",
+    libraryDependencies += "org.scalatest" %% "scalatest" % "3.0.0" % "test",
     libraryDependencies += "org.querki" %%% "jquery-facade" % "1.2",
-    libraryDependencies += "org.scalatest" %% "scalatest" % "3.0.5" % "test",
-    libraryDependencies += "org.scala-js" %%% "scalajs-dom" % "0.9.6",
     jsDependencies += "org.webjars" % "jquery" % "2.2.1" / "jquery.js" minified "jquery.min.js",
-    /* this task running the test inside js
-    you can run it by this command :
-     js/jsTask
-    */
-//    TaskKey[Unit]("jsTask") := (testOnly in Test).toTask(" tests.JsTest").value
+    libraryDependencies += "be.doeraene" %%% "scalajs-jquery" % "0.9.5",
+      /* this task running the test inside js
+      you can run it by this command :
+       js/jsTask
+      */
+      TaskKey[Unit] ("jsTask") := (testOnly in Test).toTask(" jstests.JsTest").value
   )
 
 fork in run := true
