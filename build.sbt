@@ -56,10 +56,12 @@ lazy val native = project
     nativeLinkStubs := true,
     fork in test := true,
     libraryDependencies += "org.scalatest" % "scalatest_native0.3_2.11" % "3.2.0-SNAP10",
-    /* this task running the test inside native
-   you can run it by this command :
-   native/nativeTask
-   */
+    //Adding scala swing to create UI
+    libraryDependencies += "org.scala-lang.modules" %% "scala-swing" % "2.1.1" ,
+      /* this task running the test inside native
+     you can run it by this command :
+     native/nativeTask
+     */
     TaskKey[Unit]("nativeTask") := (testOnly in Test).toTask(" nativetests.NativeTest").value
   )
   .enablePlugins(ScalaNativePlugin)

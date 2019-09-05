@@ -4,7 +4,7 @@
 		module="cross_aggregation-build"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20190828134844"
+		publication="20190829112835"
 		e:sbtVersion="1.0" e:scalaVersion="2.12"
 	>
 		<description>

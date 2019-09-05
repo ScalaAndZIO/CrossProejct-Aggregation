@@ -4,7 +4,7 @@
 		module="native_native0.3_2.11"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20190827131227"
+		publication="20190829112912"
 	>
 		<description>
 		native
@@ -39,5 +39,6 @@
 		<dependency org="org.scala-native" name="test-interface_native0.3_2.11" rev="0.3.7" conf="test->default(compile)"/>
 		<dependency org="org.scala-native" name="nscplugin_2.11.12" rev="0.3.7" conf="plugin->default(compile)"/>
 		<dependency org="org.scalatest" name="scalatest_native0.3_2.11" rev="3.2.0-SNAP10" conf="compile->default(compile)"/>
+		<dependency org="org.scala-lang.modules" name="scala-swing_2.11" rev="2.1.1" conf="compile->default(compile)"/>
 	</dependencies>
 </ivy-module>

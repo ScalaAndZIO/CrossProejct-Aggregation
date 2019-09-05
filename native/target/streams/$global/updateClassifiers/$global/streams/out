@@ -65,6 +65,21 @@
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-reflect;2.11.12 [compile->compile]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-reflect;2.11.12 [compile->compile(*)]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-reflect;2.11.12 [compile->master]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->default]
+[debug] sbt-chain: Checking cache for: dependency: org.scala-lang.modules#scala-swing_2.11;2.1.1 {compile=[default, compile, runtime, default(compile), master], runtime=[default, compile, runtime, default(compile), master], test=[default, compile, runtime, default(compile), master], compile-internal=[default, compile, runtime, default(compile), master], runtime-internal=[default, compile, runtime, default(compile), master], test-internal=[default, compile, runtime, default(compile), master]}
+[debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-swing_2.11;2.1.1
+[debug] 	found org.scala-lang.modules#scala-swing_2.11;2.1.1 in sbt-chain
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->runtime]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->master]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->runtime]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->default(compile)]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->runtime]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->master]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->master]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.12 [compile->default]
 [debug] sbt-chain: Checking cache for: dependency: org.scala-lang#scala-library;2.11.12 {compile=[default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master], runtime=[default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master], test=[default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master], compile-internal=[default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master], runtime-internal=[default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master], test-internal=[default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master], plugin=[compile, runtime(*), master(compile), runtime, compile(*), master], scala-tool=[default, compile, runtime(*), master(compile), runtime, optional, optional(default), compile(*), master]}
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.11.12
@@ -233,6 +248,18 @@
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-reflect;2.11.12 [compile->compile]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-reflect;2.11.12 [compile->compile(*)]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-reflect;2.11.12 [compile->master]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->default]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->runtime]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->master]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->runtime]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->default(compile)]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->runtime]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->master]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->master]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.12 [compile->default]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.12 [compile->runtime]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.12 [compile->compile]
@@ -373,6 +400,18 @@
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-reflect;2.11.12 [runtime->compile]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-reflect;2.11.12 [runtime->compile(*)]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-reflect;2.11.12 [runtime->master]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime->default]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime->runtime]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime->master]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime->runtime]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime->default(compile)]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime->runtime]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime->master]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime->master]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.12 [runtime->default]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.12 [runtime->runtime]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.12 [runtime->compile]
@@ -517,6 +556,18 @@
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-reflect;2.11.12 [compile->compile]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-reflect;2.11.12 [compile->compile(*)]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-reflect;2.11.12 [compile->master]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->default]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->runtime]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->master]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->runtime]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->default(compile)]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->runtime]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->master]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->master]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.12 [compile->default]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.12 [compile->runtime]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.12 [compile->compile]
@@ -651,6 +702,18 @@
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-reflect;2.11.12 [runtime->compile]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-reflect;2.11.12 [runtime->compile(*)]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-reflect;2.11.12 [runtime->master]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime->default]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime->runtime]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime->master]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime->runtime]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime->default(compile)]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime->runtime]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime->master]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime->master]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.12 [runtime->default]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.12 [runtime->runtime]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.12 [runtime->compile]
@@ -815,6 +878,18 @@
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-native#test-interface_native0.3_2.11;0.3.7 [test->master]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-native#test-interface_native0.3_2.11;0.3.7 [test->compile(*)]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-native#test-interface_native0.3_2.11;0.3.7 [test->master]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [test->default]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [test->runtime]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [test->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [test->master]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [test->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [test->runtime]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [test->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [test->default(compile)]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [test->runtime]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [test->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [test->master]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [test->master]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.12 [test->default]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.12 [test->runtime]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.12 [test->compile]
@@ -949,6 +1024,18 @@
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-reflect;2.11.12 [compile->compile]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-reflect;2.11.12 [compile->compile(*)]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-reflect;2.11.12 [compile->master]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->default]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->runtime]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->master]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->runtime]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->default(compile)]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->runtime]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->master]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->master]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.12 [compile->default]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.12 [compile->runtime]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.12 [compile->compile]
@@ -1091,6 +1178,18 @@
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-reflect;2.11.12 [compile-internal->compile]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-reflect;2.11.12 [compile-internal->compile(*)]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-reflect;2.11.12 [compile-internal->master]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile-internal->default]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile-internal->runtime]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile-internal->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile-internal->master]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile-internal->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile-internal->runtime]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile-internal->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile-internal->default(compile)]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile-internal->runtime]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile-internal->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile-internal->master]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile-internal->master]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.12 [compile-internal->default]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.12 [compile-internal->runtime]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.12 [compile-internal->compile]
@@ -1235,6 +1334,18 @@
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-reflect;2.11.12 [compile->compile]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-reflect;2.11.12 [compile->compile(*)]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-reflect;2.11.12 [compile->master]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->default]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->runtime]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->master]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->runtime]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->default(compile)]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->runtime]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->master]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->master]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.12 [compile->default]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.12 [compile->runtime]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.12 [compile->compile]
@@ -1375,6 +1486,18 @@
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-reflect;2.11.12 [runtime->compile]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-reflect;2.11.12 [runtime->compile(*)]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-reflect;2.11.12 [runtime->master]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime->default]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime->runtime]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime->master]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime->runtime]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime->default(compile)]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime->runtime]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime->master]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime->master]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.12 [runtime->default]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.12 [runtime->runtime]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.12 [runtime->compile]
@@ -1516,6 +1639,18 @@
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-reflect;2.11.12 [runtime-internal->compile]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-reflect;2.11.12 [runtime-internal->compile(*)]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-reflect;2.11.12 [runtime-internal->master]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime-internal->default]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime-internal->runtime]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime-internal->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime-internal->master]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime-internal->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime-internal->runtime]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime-internal->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime-internal->default(compile)]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime-internal->runtime]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime-internal->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime-internal->master]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime-internal->master]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.12 [runtime-internal->default]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.12 [runtime-internal->runtime]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.12 [runtime-internal->compile]
@@ -1661,6 +1796,18 @@
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-reflect;2.11.12 [compile->compile]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-reflect;2.11.12 [compile->compile(*)]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-reflect;2.11.12 [compile->master]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->default]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->runtime]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->master]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->runtime]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->default(compile)]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->runtime]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->master]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [compile->master]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.12 [compile->default]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.12 [compile->runtime]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.12 [compile->compile]
@@ -1819,6 +1966,18 @@
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-reflect;2.11.12 [runtime->compile]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-reflect;2.11.12 [runtime->compile(*)]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-reflect;2.11.12 [runtime->master]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime->default]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime->runtime]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime->master]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime->runtime]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime->default(compile)]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime->runtime]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime->master]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [runtime->master]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.12 [runtime->default]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.12 [runtime->runtime]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.12 [runtime->compile]
@@ -2001,6 +2160,18 @@
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-native#test-interface_native0.3_2.11;0.3.7 [test->master]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-native#test-interface_native0.3_2.11;0.3.7 [test->compile(*)]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-native#test-interface_native0.3_2.11;0.3.7 [test->master]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [test->default]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [test->runtime]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [test->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [test->master]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [test->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [test->runtime]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [test->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [test->default(compile)]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [test->runtime]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [test->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [test->master]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [test->master]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.12 [test->default]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.12 [test->runtime]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.12 [test->compile]
@@ -2151,6 +2322,18 @@
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-native#test-interface_native0.3_2.11;0.3.7 [test-internal->master]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-native#test-interface_native0.3_2.11;0.3.7 [test-internal->compile(*)]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-native#test-interface_native0.3_2.11;0.3.7 [test-internal->master]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [test-internal->default]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [test-internal->runtime]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [test-internal->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [test-internal->master]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [test-internal->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [test-internal->runtime]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [test-internal->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [test-internal->default(compile)]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [test-internal->runtime]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [test-internal->compile]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [test-internal->master]
+[debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;2.1.1 [test-internal->master]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.12 [test-internal->default]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.12 [test-internal->runtime]
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.12 [test-internal->compile]
@@ -2354,27 +2537,34 @@
 [debug] == resolving dependencies native#native$sources;0.1.0-SNAPSHOT->jline#jline;2.14.3 [scala-tool->master]
 [debug] 	resolved ivy file produced in cache
 [debug] :: downloading artifacts ::
+[debug] 		tried /root/.ivy2/local/org.scala-lang.modules/scala-swing_2.11/2.1.1/srcs/scala-swing_2.11-sources.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.12!scala-reflect.jar(src)
+[debug] 		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.11/2.1.1/scala-swing_2.11-2.1.1-sources.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.11.12!scala-library.jar(src)
-[debug] 	[NOT REQUIRED] org.scalactic#scalactic_native0.3_2.11;3.2.0-SNAP10!scalactic_native0.3_2.11.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-native#javalib_native0.3_2.11;0.3.7!javalib_native0.3_2.11.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-native#nativelib_native0.3_2.11;0.3.7!nativelib_native0.3_2.11.jar(src)
+[debug] 	[NOT REQUIRED] org.scalactic#scalactic_native0.3_2.11;3.2.0-SNAP10!scalactic_native0.3_2.11.jar(src)
+[debug] 	[NOT REQUIRED] org.scalatest#scalatest_native0.3_2.11;3.2.0-SNAP10!scalatest_native0.3_2.11.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-native#test-interface-serialization_native0.3_2.11;0.3.6!test-interface-serialization_native0.3_2.11.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-native#test-interface-serialization_native0.3_2.11;0.3.7!test-interface-serialization_native0.3_2.11.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-native#scalalib_native0.3_2.11;0.3.7!scalalib_native0.3_2.11.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-native#test-interface-sbt-defs_native0.3_2.11;0.3.6!test-interface-sbt-defs_native0.3_2.11.jar(src)
-[debug] 	[NOT REQUIRED] org.scala-native#test-interface_native0.3_2.11;0.3.6!test-interface_native0.3_2.11.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-native#auxlib_native0.3_2.11;0.3.7!auxlib_native0.3_2.11.jar(src)
-[debug] 	[NOT REQUIRED] org.scala-native#test-interface_native0.3_2.11;0.3.7!test-interface_native0.3_2.11.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-native#test-interface-sbt-defs_native0.3_2.11;0.3.7!test-interface-sbt-defs_native0.3_2.11.jar(src)
-[debug] 	[NOT REQUIRED] org.scala-native#test-interface-serialization_native0.3_2.11;0.3.6!test-interface-serialization_native0.3_2.11.jar(src)
-[debug] 	[NOT REQUIRED] org.scala-native#test-interface-serialization_native0.3_2.11;0.3.7!test-interface-serialization_native0.3_2.11.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-native#test-interface_native0.3_2.11;0.3.6!test-interface_native0.3_2.11.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-native#test-interface_native0.3_2.11;0.3.7!test-interface_native0.3_2.11.jar(src)
+[debug] 	[NOT REQUIRED] jline#jline;2.14.3!jline.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.5!scala-xml_2.11.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4!scala-parser-combinators_2.11.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.12!scala-compiler.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-native#nscplugin_2.11.12;0.3.7!nscplugin_2.11.12.jar(src)
-[debug] 	[NOT REQUIRED] jline#jline;2.14.3!jline.jar(src)
-[debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar(src)
-[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4!scala-parser-combinators_2.11.jar(src)
-[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.5!scala-xml_2.11.jar(src)
-[debug] 	[NOT REQUIRED] org.scalatest#scalatest_native0.3_2.11;3.2.0-SNAP10!scalatest_native0.3_2.11.jar(src)
-[debug] :: resolution report :: resolve 1138ms :: artifacts dl 97ms
+[info] downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.11/2.1.1/scala-swing_2.11-2.1.1-sources.jar ...
+[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.11/2.1.1/scala-swing_2.11-2.1.1-sources.jar
+[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.11/2.1.1/scala-swing_2.11-2.1.1-sources.jar.sha1
+[debug] sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.11/2.1.1/scala-swing_2.11-2.1.1-sources.jar
+[info] 	[SUCCESSFUL ] org.scala-lang.modules#scala-swing_2.11;2.1.1!scala-swing_2.11.jar(src) (883ms)
+[debug] :: resolution report :: resolve 257ms :: artifacts dl 893ms
 [debug] 	report for native#native$sources;0.1.0-SNAPSHOT compile produced in /home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/resolution-cache/reports/native-native$sources-compile.xml
 [debug] 	report for native#native$sources;0.1.0-SNAPSHOT runtime produced in /home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/resolution-cache/reports/native-native$sources-runtime.xml
 [debug] 	report for native#native$sources;0.1.0-SNAPSHOT test produced in /home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/resolution-cache/reports/native-native$sources-test.xml
@@ -2386,4 +2576,4 @@
 [debug] 	report for native#native$sources;0.1.0-SNAPSHOT plugin produced in /home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/resolution-cache/reports/native-native$sources-plugin.xml
 [debug] 	report for native#native$sources;0.1.0-SNAPSHOT pom produced in /home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/resolution-cache/reports/native-native$sources-pom.xml
 [debug] 	report for native#native$sources;0.1.0-SNAPSHOT scala-tool produced in /home/naseem/Documents/SFreely NEW/Cross_Aggregation/native/target/scala-2.11/resolution-cache/reports/native-native$sources-scala-tool.xml
-[debug] 	resolve done (1138ms resolve - 97ms download)
+[debug] 	resolve done (257ms resolve - 893ms download)

@@ -4,7 +4,7 @@
 		module="common$sources"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20190828133956"
+		publication="20190829112930"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
